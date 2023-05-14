@@ -14,14 +14,14 @@
             style="@style/TextAppearance.AppCompat.Title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/hello_from_main" />
+            android:text="@string/hello_from_detail" />
 
         <com.google.android.material.button.MaterialButton
-            android:id="@+id/mb_detail"
+            android:id="@+id/mb_back"
             style="@style/Widget.MaterialComponents.Button.TextButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/detail_activity"
+            android:text="@string/back"
             android:textAllCaps="false" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>

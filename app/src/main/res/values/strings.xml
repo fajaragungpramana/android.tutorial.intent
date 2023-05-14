@@ -4,4 +4,7 @@
     <string name="detail_activity">Detail Activity</string>
     <string name="hello_from_detail">Hello, from DetailActivity</string>
     <string name="back">Back</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="choose_a_picture">Choose a Picture</string>
+    <string name="something_went_wrong">Something went wrong.</string>
 </resources>

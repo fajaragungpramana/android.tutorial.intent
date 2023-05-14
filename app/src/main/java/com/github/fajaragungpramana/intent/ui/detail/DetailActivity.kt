@@ -11,6 +11,10 @@ class DetailActivity : AppActivity<ActivityDetailBinding>() {
 
     override fun onCreated(savedInstanceState: Bundle?) {
 
+        viewBinding.mbBack.setOnClickListener {
+            finish()
+        }
+
     }
 
 }

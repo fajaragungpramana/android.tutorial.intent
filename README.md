@@ -1,7 +1,7 @@
 # Intent
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 </br>
-this is an example of an intent tutorial that I share on my medium.
+this is an example of an intent tutorial that I share on my [Medium](https://medium.com/@fajar.agungpramana77/yuk-belajar-intent-pada-aplikasi-android-94209b850f8f)
 
 ## Information
 Language:
